@@ -62,6 +62,9 @@ Alternatively you can double click and use Ubuntu Software to install everything
 
 Changelog
 =========================================================
+1.0 - 08/11/2021
+Works as intended
+
 0.9 - 21/10/2021
 Introduced option to either download or install .deb packages
 
